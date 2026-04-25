@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/chroma_db/
+data/tickets.jsonl
+data/escalations.jsonl
+logs/agent.jsonl
+.pytest_cache/
+.ruff_cache/
